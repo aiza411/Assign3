@@ -16,7 +16,7 @@
             android:name=".Credentials"
             android:exported="false" />
         <activity
-            android:name=".Home"
+            android:name=".Menu"
             android:exported="false" />
         <activity
             android:name=".ChooseRole"

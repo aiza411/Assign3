@@ -54,7 +54,7 @@ public class Credentials extends AppCompatActivity
         save_btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent=new Intent(Credentials.this,Home.class);
+                Intent intent=new Intent(Credentials.this, Menu.class);
                 startActivity(intent);
                 finish();
             }
